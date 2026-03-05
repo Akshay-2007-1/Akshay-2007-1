@@ -1,57 +1,68 @@
-# Welcome to My GitHub Profile! 👋
+# Hi there, I'm Akshay! 👋
+
+![Profile Banner](https://img.shields.io/badge/NUS-Computer%20Science-blue?style=flat&logo=nus)
 
 ## About Me 🙋‍♂️
-Hi there! I'm **Akshay**, a 17-year-old undergraduate student at **IIIT Hyderabad**, pursuing **Computer Science and Engineering**. 🖥️ I'm passionate about solving problems, learning new things, and building projects that challenge me to think creatively. 
+I'm a 19-year-old **Computer Science undergrad at NUS**.  
+Passionate about **software development, web apps, and problem-solving**.  
+I love building **interactive, efficient, and scalable projects**.  
+
+- 🎓 Exploring **OOP, TypeScript, React, and modern web development**  
+- 🧮 Math & algorithms enthusiast, enjoy **competitive programming** and **problem-solving**  
+- 🎮 Game dev & optimization fan, always trying to make projects **efficient and human-like**  
+- 🗣️ Debater & thinker — love logical and philosophical challenges  
 
 ---
 
-## 🌟 Fun Facts:
-- 🎓 Currently exploring the fascinating world of **C programming** and working on projects involving **SDL** and **multiplayer games**. 
-- 🧮 A math enthusiast 🧠 who enjoys diving into **real analysis** and constructing **geometric proofs**. 
-- 🗣️ I love engaging in debates and exploring intriguing philosophical questions. My recent debate topic: *Why lovers fall in love despite inevitable separation*. 💔❤️
-- 🎮 Aspiring game developer with a penchant for optimized code and creative gameplay mechanics.
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![SDL](https://img.shields.io/badge/-SDL-4F94CD?style=flat)
+
+### Concepts & Tools
+- Object-Oriented Programming (OOP)  
+- Algorithms & Data Structures  
+- Competitive Programming  
+- LaTeX & Math Modeling  
 
 ---
 
-## 📚 What I Do:
-- 💻 **Coding Projects**:
-  - Multiplayer Halloween-themed games 🎃
-  - Complex linked list operations 🔗
-  - Optimized algorithms to tackle TLE errors ⚡
+## 📚 Projects
 
-- ✏️ **Problem Solving**:
-  - C programming challenges 🚀
-  - Proving fascinating **mathematical theorems** and sequences ✅
+### Multiplayer Web Game 🕹️
+> Real-time interactive game built with **TypeScript, React, and Node.js**. Optimized for smooth multiplayer experience.
 
----
+### Magical Chessboard Solver ♟️
+> Human-like logic for placing chess pieces and solving complex board constraints efficiently.
 
-## 📌 Highlight Projects:
-- **Magical Chessboard Problem** ♟️: Developed a human-like logical solution.
-- **Multiplayer SDL Game** 🕹️: Created a game with optimized graphics and background music.
-- **RNA to Protein Translator** 🧬: Solved biological computation problems with clarified molecular biology concepts.
+### RNA to Protein Translator 🧬
+> Computational biology tool using accurate translation rules for RNA → protein sequences.
+
+### Interactive React Apps 🌐
+> Modular, responsive applications showcasing **React + TypeScript** best practices.
 
 ---
 
-## 🌈 Goals:
-- Master advanced C programming concepts like **file I/O** 📂
-- Create interactive and immersive projects 🌟
-- Combine math and computer science to solve unique problems 🤔
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-iiith)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akshay@example.com)  
 
 ---
 
-## 📬 How to Reach Me:
-- 💌 Email: [akshay@example.com](mailto:akshay@example.com)
-- 🌐 LinkedIn: [linkedin.com/in/akshay-iiith](https://linkedin.com/in/akshay-iiith)
-- 📄 Check out my resume [here](#) (link placeholder).
-
----
-
-## 🛠️ Tools & Technologies:
-- **Languages**: C, Python, SQL
-- **Libraries**: SDL, OpenGL
-- **Math Tools**: LaTeX, WolframAlpha
+## 📈 GitHub Stats
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshay-iiith&show_icons=true&theme=radical)
 
 ---
 
 ### Thanks for Visiting! ✨
-> *"Life is like coding: Debug, optimize, and keep learning!"*
+> *"Code, optimize, and keep learning — every project is a puzzle waiting to be solved!"*
