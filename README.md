@@ -59,10 +59,5 @@ I love building **interactive, efficient, and scalable projects**.
 
 ---
 
-## 📈 GitHub Stats
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshay-iiith&show_icons=true&theme=radical)
-
----
-
 ### Thanks for Visiting! ✨
 > *"Code, optimize, and keep learning — every project is a puzzle waiting to be solved!"*
