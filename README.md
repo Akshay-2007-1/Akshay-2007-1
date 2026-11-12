@@ -24,4 +24,4 @@ C++, Python, TypeScript, JavaScript, Kotlin, a bit of Java and Go. React and Nod
 
 ## Elsewhere
 
-[Website](https://akshay-2007-1.github.io/Personal-Website/) · [LinkedIn](https://linkedin.com/in/akshay-iiith)
+[Website](https://akshay-2007-1.github.io/Personal-Website/) · [LinkedIn](https://linkedin.com/in/akshay-vemulapalli/)
