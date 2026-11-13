@@ -2,6 +2,8 @@
 
 I'm a second-year student at NUS, doing Computer Science and Mathematics. I'm based in Singapore.
 
+Looking for summer 2027 internships in software engineering, AI agents and quant-adjacent systems.
+
 ## What I'm up to
 
 - **Source Academy.** I look after the backend at NUS Source Academy, which includes the autograder that marks CS1101S assignments. I also teach the module as a TA. This year I've been part of the move from JavaScript to Python in the course, and I built the CSE Machine visualiser plugin for it. Earlier I spent some months getting Python to run on the LEGO EV3 robots. That's finished now.
